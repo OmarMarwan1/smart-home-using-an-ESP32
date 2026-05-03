@@ -236,5 +236,5 @@ See the [LICENSE](LICENSE) file for full terms.
 ---
 
 <div align="center">
-Made with ❤️ by <a href="https://github.com/OmarMarwan1">OmarMarwan1</a>
+Made by <a href="https://github.com/OmarMarwan1">OmarMarwan1</a>
 </div>
